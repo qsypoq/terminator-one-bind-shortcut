@@ -4,6 +4,5 @@ Terminator plugin to make us able to trigger on/off features with the same short
 ATM working with broadcast all / group / off.
 
 To do:
-- Graphical return when turning on/off features
 - Load config from file
 - Make it more user-friendly to select which bind to use
